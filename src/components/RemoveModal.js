@@ -14,7 +14,7 @@ const classes = {
 	modalHead: {
 		padding: '.5em',
 		fontWeight: 'bold',
-		fontFamily: 'Helvetica, Roboto, Verdana',
+		fontFamily: 'Calibri, Helvetica, Roboto, Verdana',
 	},
 	formControl: {
 	    width: '70%',
